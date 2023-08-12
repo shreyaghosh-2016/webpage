@@ -1,5 +1,5 @@
 ---
-title: 'Clock Against Chaos: Dynamic Assessment and Temporal Intervention in Reducing Misinformation Propagation'
+title: 'How early can we detect? Detecting Misinformation on Social Media Using User Profiling and Network Characteristics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,12 +7,11 @@ title: 'Clock Against Chaos: Dynamic Assessment and Temporal Intervention in Red
 authors:
   - admin
   - Prasenjit Mitra
-  - Preslav Nakov
-
+  
 # Author notes (optional)
 
 
-date: '2024-06-01T00:00:00Z'
+date: '2023-09-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,12 +24,12 @@ publishDate: '2023-05-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *18th International AAAI Conference on Web and Social Media*
-publication_short: In *AAAI ICWSM 2024*
+publication: In *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)*
+publication_short: In *ECML PKDD 2023*
 
 abstract: As social networks become the primary sources of information, the rise of misinformation poses a significant threat to the information ecosystem. 
 # Summary. An optional shortened abstract.
-summary: Social networks' role as primary information sources has led to a rise in misinformation, threatening the information ecosystem. This study introduces a system that assigns misinformation scores to tweets in real-time using a mix of Temporal Graph Network (TGN) and Recurrent Neural Networks (RNNs) to track how misinformation spreads. This approach uses active learning, a dual model system, a temporal embargo based on belief scores, and a retraining method, showing significant accuracy in identifying and reducing misinformation propagation across five datasets.
+summary: The growth of social media underscores the need for early misinformation detection, as traditional methods often lag due to a lack of initial dissemination data. This paper introduces a model that classifies misinformation based on propagation paths and linguistic cues, and uses a causal user attribute inference to pinpoint potential misinformation spreaders or believers. The proposed model can accurately detect fake news within 30 minutes of its first appearance, achieving 86.5% accuracy before 50 retweets, surpassing current benchmarks.
 
 tags: []
 
@@ -42,8 +41,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1B3ObfDbR1Jjmhj1U7TdgDzV4OFxsHPKS/view'
-url_code: 'https://drive.google.com/drive/u/3/folders/1Qh4IP-8KYrKW6AJQuIvlwHoyu4U2ON2d'
+url_pdf: 'https://drive.google.com/file/d/1yWstBcWsksxXy8Gsx5pO5acs9nwMytA_/view'
+url_code: 'https://drive.google.com/drive/u/3/folders/1JF20eJ0Ymn6cXwXOpv7BPCAI5zF6MYe9'
 
 
 # Featured image
